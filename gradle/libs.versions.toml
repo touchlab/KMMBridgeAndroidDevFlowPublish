@@ -9,7 +9,7 @@ lifecycleRuntimeKtx = "2.8.7"
 activityCompose = "1.9.3"
 composeBom = "2024.11.00"
 
-skie = "0.9.5"
+skie = "0.10.0"
 kmmBridge = "1.1.2-a1"
 
 [libraries]

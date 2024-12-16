@@ -2,8 +2,8 @@
 import PackageDescription
 
 // BEGIN KMMBRIDGE VARIABLES BLOCK (do not edit)
-let remoteKotlinUrl = "https://api.github.com/repos/touchlab/KMMBridgeAndroidDevFlowPublish/releases/assets/212920612.zip"
-let remoteKotlinChecksum = "71e02a6ead135aaa060ecbddaec5ef2e11a7addf8741dbc03648ba4501c0dd53"
+let remoteKotlinUrl = "https://api.github.com/repos/touchlab/KMMBridgeAndroidDevFlowPublish/releases/assets/213771197.zip"
+let remoteKotlinChecksum = "420ab8a8203df2ed8e2ac8b8e93e6831c4a18858e1659c229a1209ef723ac38c"
 let packageName = "kmplib"
 // END KMMBRIDGE BLOCK
 
